@@ -8,7 +8,7 @@
 
 header {
     height: 40px;
-    padding: 20px 8%;
+    padding: 25px 50px;
     display: flex;
     font-family: Minecraft, sans-serif;
     justify-content: flex-end;
@@ -26,6 +26,7 @@ header {
     list-style: none;
     display: inline-block;
     padding: 3px 10px;
+    mergin: 0 30px 0 0;
 }
 
 .nav_list li :hover {

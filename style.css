@@ -50,6 +50,7 @@ button {
 
 button:hover {
     cursor: pointer;
-    background-color: rgba(250, 90, 60,0.9);
+    background-color:rgb(253, 253, 253);
+    color:rgb(7, 5, 88) ;
 }
 
